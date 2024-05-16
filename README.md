@@ -1,6 +1,7 @@
 # Encoder Decoder Tool Using RSA Algorithm 🔒🔑
 
-![Encoder Decoder Tool Using RSA Algorithm](https://example.com/encoder_decoder_tool_image.jpg)
+![Working Image](https://github.com/Pratham-Bajpai1/Encoder-Decoder-Tool-Using-RSA-Algorithm/assets/124435912/e6b08756-3193-4c7a-82a3-46fad32a38fa)
+
 
 Welcome to the Encoder Decoder Tool Using RSA Algorithm! This software application provides encryption and decryption functionalities using the RSA algorithm, ensuring secure communication over insecure channels. Let's explore the exciting features and technical details of this tool:
 
